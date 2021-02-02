@@ -1,2 +1,2 @@
-# baltimore-losangeles-housing
-comparing housing data in Baltimore to LA
+# baltimore-downingtown-economicstatus
+comparing economic status in Baltimore to Downingtown
